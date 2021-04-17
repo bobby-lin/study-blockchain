@@ -1,1 +1,1 @@
-# List of Blockchain Study Resources
+# Study Blockchain
