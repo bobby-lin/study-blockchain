@@ -9,6 +9,8 @@
 ## Online Courses
 [CS 251: Cryptocurrencies and Blockchain Technologies](https://cs251.stanford.edu/)
 
+[MAS.S62: Cryptocurrency Engineering and Design (MIT 2018)](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-s62-cryptocurrency-engineering-and-design-spring-2018/)
+
 [Blockchain Training Alliance (BTA)](https://blockchaintrainingalliance.com/)
 
 ## Links
@@ -24,5 +26,5 @@
 
 [Mastering Bitcoin (2ed): Programming the Open Blockchain](https://www.amazon.com/Mastering-Bitcoin-Programming-Open-Blockchain/dp/1491954388)
 
-### Other Awesome List
+## Other Awesome List
 - https://github.com/yjjnls/awesome-blockchain
