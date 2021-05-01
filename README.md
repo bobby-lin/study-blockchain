@@ -2,7 +2,7 @@
 
 # Table of Content
 - [Introduction](#introduction)
-- [Blockchain Security](#blockchain-security)
+- [🔐 Blockchain Security](#blockchain-security)
 - [Community](#community)
 - [:computer: Online Courses](#online-courses)
 - [Links](#links)
@@ -22,6 +22,8 @@
 [MAS.S62: Cryptocurrency Engineering and Design (MIT 2018)](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-s62-cryptocurrency-engineering-and-design-spring-2018/)
 
 [Blockchain Training Alliance (BTA)](https://blockchaintrainingalliance.com/)
+
+[SEC554: Blockchain and Smart Contract Security (SANS)](https://www.sans.org/ondemand/course/blockchain-smart-contract-security/192905)
 
 ## Links
 [Resources from a16z for Understanding Crypto](https://a16z.com/2020/04/30/explaining-crypto-from-a16z/)
