@@ -2,8 +2,10 @@
 
 # Table of Content
 - [Introduction](#introduction)
-- [🔐 Blockchain Security](#blockchain-security)
 - [Community](#community)
+
+- [Blockchain Implementations](#blockchain-implementations)
+- [🔐 Blockchain Security](#blockchain-security)
 - [:computer: Online Courses](#online-courses)
 - [Links](#links)
 - [Online Discussion / Forum](#online-discussion-forum)
@@ -12,9 +14,15 @@
 
 ## Introduction
 
-## Blockchain Security
-
 ## Community
+
+## Blockchain implementations
+Bitcoin
+Ethereum
+Hyperledger
+
+## Blockchain Security
+[How To Lose $280 Million With A Single Line Of Code (Video)](https://www.youtube.com/watch?v=bTPouSkrhIM)
 
 ## Online Courses
 [CS 251: Cryptocurrencies and Blockchain Technologies](https://cs251.stanford.edu/)
