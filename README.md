@@ -17,9 +17,9 @@
 ## Community
 
 ## Blockchain implementations
-Bitcoin
-Ethereum
-Hyperledger
+- Bitcoin
+- Ethereum
+- Hyperledger
 
 ## Blockchain Security
 [How To Lose $280 Million With A Single Line Of Code (Video)](https://www.youtube.com/watch?v=bTPouSkrhIM)
