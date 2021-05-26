@@ -3,9 +3,9 @@
 # Table of Content
 - [Introduction](#introduction)
 - [Community](#community)
-
 - [Blockchain Implementations](#blockchain-implementations)
 - [🔐 Blockchain Security](#blockchain-security)
+- [🚩 Hacking Practice](#hacking-practice)
 - [:computer: Online Courses](#online-courses)
 - [Links](#links)
 - [Online Discussion / Forum](#online-discussion-forum)
