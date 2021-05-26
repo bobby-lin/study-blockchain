@@ -20,9 +20,17 @@
 - Bitcoin
 - Ethereum
 - Hyperledger
+- Corda
 
 ## Blockchain Security
 [How To Lose $280 Million With A Single Line Of Code (Video)](https://www.youtube.com/watch?v=bTPouSkrhIM)
+
+## Hacking Practice
+[Capture the Ether](https://capturetheether.com/)
+
+[Ethernaut](https://ethernaut.openzeppelin.com/)
+
+[Damn Vulnerable Defi](https://www.damnvulnerabledefi.xyz/)
 
 ## Online Courses
 [CS 251: Cryptocurrencies and Blockchain Technologies](https://cs251.stanford.edu/)
