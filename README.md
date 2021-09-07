@@ -46,6 +46,8 @@
 
 [Crypto Canon](https://a16z.com/2018/02/10/crypto-readings-resources/)
 
+[Testing Smart Contracts](https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum)
+
 ## Online Discussion / Forum
 [Resources for understanding cryptocurrency and blockchain technology](https://news.ycombinator.com/item?id=23029172)
 
