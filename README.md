@@ -10,6 +10,7 @@
 - [Links](#links)
 - [Online Discussion / Forum](#online-discussion-forum)
 - [:open_book: Books](#books)
+- [Bug Bounties](#bug-bounties)
 - [Other Awesome List](#other-awesome-list)
 
 ## Introduction
@@ -59,6 +60,9 @@
 [Mastering Bitcoin (2ed): Programming the Open Blockchain](https://www.amazon.com/Mastering-Bitcoin-Programming-Open-Blockchain/dp/1491954388)
 
 [Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction](https://www.amazon.com/Bitcoin-Cryptocurrency-Technologies-Comprehensive-Introduction/dp/0691171696)
+
+## Bug Bounties
+[ImmuneFi](www.immunefi.com)
 
 ## Other Awesome List
 - https://github.com/yjjnls/awesome-blockchain
