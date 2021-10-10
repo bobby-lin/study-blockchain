@@ -41,6 +41,8 @@
 
 [SEC554: Blockchain and Smart Contract Security (SANS)](https://www.sans.org/ondemand/course/blockchain-smart-contract-security/192905)
 
+[Defi MOOC](https://defi-learning.org/)
+
 ## Links
 [Resources from a16z for Understanding Crypto](https://a16z.com/2020/04/30/explaining-crypto-from-a16z/)
 
