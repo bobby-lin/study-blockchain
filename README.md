@@ -64,5 +64,8 @@
 ## Bug Bounties
 [ImmuneFi](www.immunefi.com)
 
+## Researchers
+[SlowMist](https://twitter.com/slowmist_team)
+
 ## Other Awesome List
 - https://github.com/yjjnls/awesome-blockchain
