@@ -27,6 +27,7 @@
 [How To Lose $280 Million With A Single Line Of Code (Video)](https://www.youtube.com/watch?v=bTPouSkrhIM)
 
 [Why You Should Never Test Exploits on Mainnet or Public Testnets](https://medium.com/immunefi/why-you-should-never-test-exploits-on-mainnet-or-public-testnets-7e904a2cbf05)
+> "Not everyone who moves from the Web2 security world into the Web3 space is aware of the most important, fundamental rule about blockchain hacking: never test your proof of concept (PoC) exploit on mainnet or public testnets."
 
 ## Hacking Practice
 [Capture the Ether](https://capturetheether.com/)
