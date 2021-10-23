@@ -72,3 +72,4 @@
 
 ## Other Awesome List
 - https://github.com/yjjnls/awesome-blockchain
+- https://github.com/crytic/awesome-ethereum-security
