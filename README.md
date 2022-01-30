@@ -54,6 +54,10 @@
 
 [Testing Smart Contracts](https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum)
 
+[Why it’s too early to get excited about Web3](https://www.oreilly.com/radar/why-its-too-early-to-get-excited-about-web3/)
+
+[My first impressions of web3 by Moxie](https://moxie.org/2022/01/07/web3-first-impressions.html)
+
 ## Online Discussion / Forum
 [Resources for understanding cryptocurrency and blockchain technology](https://news.ycombinator.com/item?id=23029172)
 
