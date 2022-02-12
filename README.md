@@ -33,6 +33,8 @@
 
 [A Hacker’s Guide to Submitting Bugs on Immunefi](https://medium.com/immunefi/a-hackers-guide-to-submitting-bugs-on-immunefi-1e6b7ada71a9)
 
+[Hacking the Blockchain: An Ultimate Guide](https://medium.com/immunefi/hacking-the-blockchain-an-ultimate-guide-4f34b33c6e8b)
+
 ## Hacking Practice
 [Capture the Ether](https://capturetheether.com/)
 
