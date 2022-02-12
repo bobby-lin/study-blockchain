@@ -29,12 +29,21 @@
 [Why You Should Never Test Exploits on Mainnet or Public Testnets](https://medium.com/immunefi/why-you-should-never-test-exploits-on-mainnet-or-public-testnets-7e904a2cbf05)
 > "Not everyone who moves from the Web2 security world into the Web3 space is aware of the most important, fundamental rule about blockchain hacking: never test your proof of concept (PoC) exploit on mainnet or public testnets."
 
+[Consensys - Smart Contract Best Practices](https://consensys.github.io/smart-contract-best-practices/)
+
+[A Hacker’s Guide to Submitting Bugs on Immunefi](https://medium.com/immunefi/a-hackers-guide-to-submitting-bugs-on-immunefi-1e6b7ada71a9)
+
 ## Hacking Practice
 [Capture the Ether](https://capturetheether.com/)
 
 [Ethernaut](https://ethernaut.openzeppelin.com/)
 
 [Damn Vulnerable Defi](https://www.damnvulnerabledefi.xyz/)
+
+## Development
+[Buildspace](https://buildspace.so/)
+
+[Cryptozombies](https://cryptozombies.io/)
 
 ## Online Courses
 [CS 251: Cryptocurrencies and Blockchain Technologies](https://cs251.stanford.edu/)
@@ -46,6 +55,13 @@
 [SEC554: Blockchain and Smart Contract Security (SANS)](https://www.sans.org/ondemand/course/blockchain-smart-contract-security/192905)
 
 [Defi MOOC](https://defi-learning.org/)
+
+[Solidity, Blockchain, and Smart Contract Course – Beginner to Expert - FreeCodeCamp](https://www.youtube.com/watch?v=M576WGiDBdQ)
+
+## Tweets
+[How to make a jump from Web2 hacking to Web3 hacking?](https://twitter.com/adrianhetman/status/1475550508354093072)
+
+[How to start in Web3 hacking on Rust-based chains?](https://twitter.com/timurguvenkaya/status/1475843655567089676)
 
 ## Links
 [Resources from a16z for Understanding Crypto](https://a16z.com/2020/04/30/explaining-crypto-from-a16z/)
