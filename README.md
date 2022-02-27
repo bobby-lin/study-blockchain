@@ -74,6 +74,8 @@
 
 [Why it’s too early to get excited about Web3](https://www.oreilly.com/radar/why-its-too-early-to-get-excited-about-web3/)
 
+[ImmuneFi](https://immunefi.com/learn/)
+
 [My first impressions of web3 by Moxie](https://moxie.org/2022/01/07/web3-first-impressions.html)
 
 ## Online Discussion / Forum
