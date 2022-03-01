@@ -35,6 +35,10 @@
 
 [Hacking the Blockchain: An Ultimate Guide](https://medium.com/immunefi/hacking-the-blockchain-an-ultimate-guide-4f34b33c6e8b)
 
+[Defi Sandwich Attack](https://cmichel.io/de-fi-sandwich-attacks/)
+
+[ImmuneFi Writeup](https://immunefi.medium.com/hacker-earns-largest-ever-crypto-bug-bounty-via-immunefi-1ee96a54cc9f)
+
 ## Hacking Practice
 [Capture the Ether](https://capturetheether.com/)
 
@@ -97,3 +101,4 @@
 ## Other Awesome List
 - https://github.com/yjjnls/awesome-blockchain
 - https://github.com/crytic/awesome-ethereum-security
+- https://github.com/OffcierCia/DeFi-Developer-Road-Map
