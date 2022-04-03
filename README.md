@@ -94,6 +94,7 @@
 
 ## Bug Bounties
 [ImmuneFi](www.immunefi.com)
+
 [HackenProof](https://hackenproof.com/)
 
 ## Researchers
