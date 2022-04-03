@@ -94,6 +94,7 @@
 
 ## Bug Bounties
 [ImmuneFi](www.immunefi.com)
+[HackenProof](https://hackenproof.com/)
 
 ## Researchers
 [SlowMist](https://twitter.com/slowmist_team)
