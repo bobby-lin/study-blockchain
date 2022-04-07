@@ -23,6 +23,9 @@
 - Hyperledger
 - Corda
 
+## Discussion - Blockchain
+[Resistance Money: A bitcoin research collective](https://www.resistance.money/)
+
 ## Blockchain Security
 [How To Lose $280 Million With A Single Line Of Code (Video)](https://www.youtube.com/watch?v=bTPouSkrhIM)
 
@@ -41,6 +44,8 @@
 
 [REKT](https://rekt.news/leaderboard/)
 
+[Malicious Code Example in Solidity](https://solidity-by-example.org/hacks/hiding-malicious-code-with-external-contract/)
+
 ## Hacking Practice
 [Capture the Ether](https://capturetheether.com/)
 
@@ -52,6 +57,8 @@
 [Buildspace](https://buildspace.so/)
 
 [Cryptozombies](https://cryptozombies.io/)
+
+[Solidity Example Code](https://solidity-by-example.org)
 
 ## Online Courses
 [CS 251: Cryptocurrencies and Blockchain Technologies](https://cs251.stanford.edu/)
