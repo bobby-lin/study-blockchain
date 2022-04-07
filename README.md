@@ -39,6 +39,8 @@
 
 [ImmuneFi Writeup](https://immunefi.medium.com/hacker-earns-largest-ever-crypto-bug-bounty-via-immunefi-1ee96a54cc9f)
 
+[REKT](https://rekt.news/leaderboard/)
+
 ## Hacking Practice
 [Capture the Ether](https://capturetheether.com/)
 
