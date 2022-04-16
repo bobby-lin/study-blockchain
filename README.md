@@ -25,6 +25,8 @@
 
 ## Code
 - [OpenZeppelin ERC20](https://github.com/OpenZeppelin/openzeppelin-contracts)
+- [Ethers (JS Library)](https://docs.ethers.io/v5/)
+- [Hardhat](https://hardhat.org/)
 
 ## Discussion - Blockchain
 [Resistance Money: A bitcoin research collective](https://www.resistance.money/)
