@@ -52,6 +52,8 @@
 
 [Malicious Code Example in Solidity](https://solidity-by-example.org/hacks/hiding-malicious-code-with-external-contract/)
 
+[Secureum](https://secureum.substack.com/archive)
+
 ## Hacking Practice
 [Capture the Ether](https://capturetheether.com/)
 
@@ -78,6 +80,10 @@
 [Defi MOOC](https://defi-learning.org/)
 
 [Solidity, Blockchain, and Smart Contract Course – Beginner to Expert - FreeCodeCamp](https://www.youtube.com/watch?v=M576WGiDBdQ)
+
+[Cryptocurrency Class 2022](https://cryptocurrencyclass.github.io/)
+
+[Foundations of Blockchains by Tim Roughgarden](https://www.youtube.com/playlist?list=PLEGCF-WLh2RLOHv_xUGLqRts_9JxrckiA)
 
 ## Tweets
 [How to make a jump from Web2 hacking to Web3 hacking?](https://twitter.com/adrianhetman/status/1475550508354093072)
