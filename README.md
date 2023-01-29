@@ -35,7 +35,8 @@
 ## Blockchain Security
 
 ### GROUND ZERO
-Start with [Secureum Epoch Bootcamp](https://github.com/x676f64/secureum-mind_map)
+- Complete [Secureum Epoch Bootcamp](https://github.com/x676f64/secureum-mind_map)
+- Read [How to become a smart contract auditor (by cmichel)](https://cmichel.io/how-to-become-a-smart-contract-auditor/)
 
 ### More
 
@@ -68,6 +69,8 @@ Start with [Secureum Epoch Bootcamp](https://github.com/x676f64/secureum-mind_ma
 [Ethernaut](https://ethernaut.openzeppelin.com/)
 
 [Damn Vulnerable Defi](https://www.damnvulnerabledefi.xyz/)
+
+[CodeArena](https://code4rena.com/)
 
 ## Development
 [Buildspace](https://buildspace.so/)
