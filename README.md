@@ -33,6 +33,12 @@
 [Resistance Money: A bitcoin research collective](https://www.resistance.money/)
 
 ## Blockchain Security
+
+### GROUND ZERO
+Start with [Secureum Epoch Bootcamp](https://github.com/x676f64/secureum-mind_map)
+
+### More
+
 [How To Lose $280 Million With A Single Line Of Code (Video)](https://www.youtube.com/watch?v=bTPouSkrhIM)
 
 [yAcademy](https://youtube.com/@yacademyDAO)
