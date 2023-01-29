@@ -96,6 +96,8 @@
 
 [Foundations of Blockchains by Tim Roughgarden](https://www.youtube.com/playlist?list=PLEGCF-WLh2RLOHv_xUGLqRts_9JxrckiA)
 
+[Zero Knowledge Proofs MOOC, Spring 2023](https://zk-learning.org/)
+
 ## Tweets
 [How to make a jump from Web2 hacking to Web3 hacking?](https://twitter.com/adrianhetman/status/1475550508354093072)
 
